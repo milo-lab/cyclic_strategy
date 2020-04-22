@@ -1,1 +1,1 @@
-web: voila --port=80 --no-browser CyclicMS_SEIR_model_interactive.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True CyclicMS_SEIR_model_interactive.ipynb
