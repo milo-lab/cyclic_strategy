@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+voila
+sklearn
+matplotlib
+numpy
+ipywidgets
