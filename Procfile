@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser CyclicMS_SEIR_model_interactive.ipynb
+web: voila --port=$PORT --no-browser "Cyclic exit strategies explorer.ipynb"
